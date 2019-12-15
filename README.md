@@ -1,10 +1,12 @@
 # HASOC2019
-Code for our submission to HASOC2019 - Will be updated shortly
+Code for our submission to HASOC2019 - Will be updated shortly. 
+
+Slides available at: 
 
 Please cite our work as follows:
 
 ```
-@inproceedings{Mishra,
+@inproceedings{Mishra2019HASOC,
 title={{3Idiots at HASOC 2019: Fine-tuning Transformer Neural Networks for Hate Speech Identification in Indo-European Languages}},
 author={Mishra, Shubhanshu and Mishra, Sudhanshu},
 booktitle={Proceedings of the 11th annual meeting of the Forum for Information Retrieval Evaluation},
