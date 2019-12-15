@@ -10,14 +10,16 @@ Please cite our work as follows:
 
 ```
 @inproceedings{Mishra2019HASOC,
-title={{3Idiots at HASOC 2019: Fine-tuning Transformer Neural Networks for Hate Speech Identification in Indo-European Languages}},
-author={Mishra, Shubhanshu and Mishra, Sudhanshu},
-booktitle={Proceedings of the 11th annual meeting of the Forum for Information Retrieval Evaluation},
+address = {Kolkata, India},
+author = {Mishra, Shubhanshu and Mishra, Sudhanshu},
+booktitle = {Proceedings of the 11th annual meeting of the Forum for Information Retrieval Evaluation},
+pages = {208--213},
+title = {{3Idiots at HASOC 2019: Fine-tuning Transformer Neural Networks for Hate Speech Identiﬁcation in Indo-European Languages}},
+url = {http://ceur-ws.org/Vol-2517/T3-4.pdf},
+year = {2019},
+Month={December},
 series = {FIRE 2019 Working Notes},
 publisher = {CUER Workshop Proceedings},
-year={2019},
-Month={December},
-pages={208--213}
 }
 ```
 
